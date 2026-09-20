@@ -13,8 +13,6 @@ Open `permission-matrix.html` in a browser, start with the examples, add or edit
 ## Included
 
 - `permission-matrix.html` — the standalone utility
-- `LICENSE.txt` — BoundaryKit single-organization license
-- `START-HERE.md` — BoundaryKit workbook orientation
 
 Live demo: https://willowy-jelly-cca33a.netlify.app/permission-matrix.html
 
